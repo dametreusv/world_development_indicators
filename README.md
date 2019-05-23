@@ -9,3 +9,6 @@ The dataset is too large to upload or even compress onto github but it may be do
 
 ### Introduction
 [Proposal](https://github.com/dametreusv/world_development_indicators/blob/master/wdi_proposal.pdf)
+
+[Datasets](https://datacatalog.worldbank.org/dataset/world-development-indicators)
+
