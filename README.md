@@ -1,8 +1,8 @@
 # World_Development_Indicators
 
-This project uses world development indicators to provide a way for multinational companies to diversify their operational structure through classification.
+This project uses world development indicators to provide a way for multinational companies to diversify their operational structure through classification modeling.
 
-The dataset is too large to upload or even compress onto github but it may be downloaded [here](https://datacatalog.worldbank.org/dataset/world-development-indicators).
+To download the datasets click [here](https://datacatalog.worldbank.org/dataset/world-development-indicators).
 
 ## Table of Contents
 --------------------------
@@ -14,5 +14,9 @@ The dataset is too large to upload or even compress onto github but it may be do
 
 [The Datasets](https://datacatalog.worldbank.org/dataset/world-development-indicators)
 
+
+
+### Exploratory Data Analysis
+[Wrangling the Data](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
 
 
