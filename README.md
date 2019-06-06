@@ -17,6 +17,5 @@ To download the datasets click [here](https://datacatalog.worldbank.org/dataset/
 
 
 ### Exploratory Data Analysis
-[Wrangling the Data](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb) - *The last columns on wdi_pivot appear unaligned, but in the actual notebook they are.*
-
+[Wrangling the Data](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
 
