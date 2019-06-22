@@ -19,3 +19,5 @@ To download the datasets click [here](https://datacatalog.worldbank.org/dataset/
 ### Exploratory Data Analysis
 [Data Wrangling](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
 
+[Data Analysis](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
+
