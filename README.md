@@ -1,6 +1,6 @@
 # World_Development_Indicators
 
-This project uses world development indicators to provide a way for multinational companies to diversify their operational structure through classification modeling.
+This project is an exploration of world development indicators and how they correlate with the income category a country falls into.
 
 To download the datasets click [here](https://datacatalog.worldbank.org/dataset/world-development-indicators).
 
