@@ -5,6 +5,8 @@ This project is an exploration of world development indicators and how they corr
 To download the datasets click [here](https://datacatalog.worldbank.org/dataset/world-development-indicators).
 
 <img src="https://github.com/dametreusv/world_development_indicators/blob/master/images/milestone_Labor%20force%20participation%20rate%2C%20total%20(%25%20of%20total%20population%20ages%2015-64)%20(modeled%20ILO%20estimate)_1.png" width="1050" height='150'>
+<img src="https://github.com/dametreusv/world_development_indicators/blob/master/images/milestone_Individuals%20using%20the%20Internet%20(%25%20of%20population)_2.png" width="1050" height='150'>
+<img src="https://github.com/dametreusv/world_development_indicators/blob/master/images/milestone_Life%20expectancy%20at%20birth%2C%20total%20(years)_1.png" width="1050" height='150'>
 
 
 ## Table of Contents
