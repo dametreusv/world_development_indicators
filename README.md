@@ -26,5 +26,6 @@ To download the datasets click [here](https://datacatalog.worldbank.org/dataset/
 
 ### Milestone Report
 [Report via Github](https://github.com/dametreusv/world_development_indicators)
+
 [Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
 
