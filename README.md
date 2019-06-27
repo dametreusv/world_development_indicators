@@ -18,9 +18,12 @@ To download the datasets click [here](https://datacatalog.worldbank.org/dataset/
 [The Datasets](https://datacatalog.worldbank.org/dataset/world-development-indicators)
 
 
+### Data Wrangling
+
+[Data Acquistion and Cleaning](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
+
 
 ### Exploratory Data Analysis
-[Data Wrangling](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
 
 [Data Analysis](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
 
@@ -30,5 +33,5 @@ To download the datasets click [here](https://datacatalog.worldbank.org/dataset/
 ### Milestone Report
 [Report via Github](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
 
-[Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
+- [Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
 
