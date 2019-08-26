@@ -41,3 +41,8 @@ To download the datasets click [here](https://datacatalog.worldbank.org/dataset/
 
 - [ML Preparation & Modeling with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
 
+
+### Final Report
+[Final Report](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_final_report_.ipynb)
+
+- [Final Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_final_report_.ipynb)
