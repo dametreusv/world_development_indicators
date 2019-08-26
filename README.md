@@ -1,4 +1,4 @@
-# World_Development_Indicators
+# Predicting Income Groups Using World Development Indicators
 
 
 To download the datasets click [here](https://datacatalog.worldbank.org/dataset/world-development-indicators).
