@@ -39,3 +39,5 @@ To download the datasets click [here](https://datacatalog.worldbank.org/dataset/
 ### Machine Learning Modeling
 [ML Preparation & Modeling](https://github.com/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
 
+- [ML Preparation & Modeling with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
+
