@@ -44,7 +44,6 @@ To download the datasets click [here](https://datacatalog.worldbank.org/dataset/
 ### Final Report
 [Final Report](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_final_report_.ipynb)
 
-- [Final Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_final_report_.ipynb)
 
 ## Executive Summary
 
