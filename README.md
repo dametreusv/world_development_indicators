@@ -69,8 +69,6 @@ We are looking to predict the economic standing of countries using world develop
 
 In training and testing our models, we created a pipeline that would simulate every feature and hyperparameter combination using a 5 fold cross validation method in order to give us the best method that we would test on unseen data and re-tune according to performance. Our models performed extremely well in predicting high income groups and really well in predicting low income groups. The models started to dip in accuracy, precision and recall as they attempted to predict upper and lower middle income groups. The model that performed the best was the random forest model, using only 17 features to predict income groups. This model had an accuracy, precision, recall and f1-score of just under 94%. What really set the model apart from all other models was its ability to be exremely precise in predicting low income groups, predicting 177 out of 178 correctly.
 
-
-
 <img src="https://github.com/dametreusv/world_development_indicators/blob/master/images/milestone_Life%20expectancy%20at%20birth%2C%20total%20(years)_1.png?raw=true">
 <img src='https://github.com/dametreusv/world_development_indicators/blob/master/images/model_GNI_Intersection_of_Income_Groups.png?raw=true'
 
