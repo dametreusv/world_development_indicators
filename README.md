@@ -1,5 +1,6 @@
 # Predicting Income Groups Using World Development Indicators
 
+For full report click [here](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_final_report_.ipynb)
 
 To download the datasets click [here](https://datacatalog.worldbank.org/dataset/world-development-indicators).
 
