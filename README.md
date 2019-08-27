@@ -14,8 +14,6 @@
 
 [The Datasets](https://datacatalog.worldbank.org/dataset/world-development-indicators)
 
-[World Bank's Visualizations](https://datacatalog.worldbank.org/search/visualizations?sort_by=changed&f%5B0%5D=type%3Aresource)
-
 
 ### Data Wrangling
 
