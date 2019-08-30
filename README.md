@@ -1,5 +1,8 @@
 # Predicting Income Groups Using World Development Indicators
+
 [Predicting Income Groups Using World Development Indicators](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_final_report_.ipynb)
+
+-------------
 
 <img src="https://github.com/dametreusv/world_development_indicators/blob/master/images/modeling_spider_scores2.png" width="450" height='450'>
 
