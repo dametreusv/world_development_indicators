@@ -42,6 +42,8 @@
 ### Final Report
 [Predicting Income Groups Using World Development Indicators](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_final_report_.ipynb)
 
+[WDI Slide Deck](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_slidedeck.pdf)
+
 --------------------------
 For other data science related projects please click [here](https://github.com/dametreusv/Springboard_Data_Science)
 
