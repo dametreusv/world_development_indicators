@@ -1,4 +1,3 @@
---------------------------
 For other data science related projects please go to [Springboard Data Science Projects](https://github.com/dametreusv/Springboard_Data_Science) or [Amazon Hybrid Recommendation System](https://github.com/dametreusv/amazon_hybrid_recommendation_system).
 
 --------------------------
