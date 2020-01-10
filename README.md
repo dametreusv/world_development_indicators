@@ -48,7 +48,7 @@
 [WDI Slide Deck](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_slidedeck.pdf)
 
 --------------------------
-For other data science related projects please click [here](https://github.com/dametreusv/Springboard_Data_Science)
+For other data science related projects please go to [Springboard Data Science Projects](https://github.com/dametreusv/Springboard_Data_Science) or [Amazon Hybrid Recommendation System](https://github.com/dametreusv/amazon_hybrid_recommendation_system).
 
 --------------------------
 
