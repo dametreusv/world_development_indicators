@@ -93,3 +93,7 @@ In training and testing our models, we created a pipeline that would simulate ev
 <img src='https://github.com/dametreusv/world_development_indicators/blob/master/images/modeling_scores.png?raw=true' width='1000'>
 
 <img src='https://github.com/dametreusv/world_development_indicators/blob/master/images/modeling_random_forest.png?raw=true' width='700'>
+
+
+--------------------
+For other data science related projects please go to [Springboard Data Science Projects](https://github.com/dametreusv/Springboard_Data_Science) or [Amazon Hybrid Recommendation System](https://github.com/dametreusv/amazon_hybrid_recommendation_system).
