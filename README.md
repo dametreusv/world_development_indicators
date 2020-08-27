@@ -4,7 +4,7 @@ For other data science related projects please go to [Springboard Data Science P
 
 # Predicting Income Groups Using World Development Indicators
 
-[Predicting Income Groups Using World Development Indicators](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_final_report_.ipynb)
+## [Predicting Income Groups Using World Development Indicators](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_final_report_.ipynb)
 
 -------------
 
